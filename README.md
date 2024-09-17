@@ -10,7 +10,6 @@
   <strong><a href="https://lzasn.xyz"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方网站</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
   </font></font><strong><a href="https://twitter.com/w1024jk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X </font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
   </font></font><strong><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
-  </font></font><strong><a href="https://www.linkedin.com/in/edisonlee55"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LinkedIn</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
   </font></font><strong><a href="https://steamcommunity.com/id/Lzasn/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Steam</font></font></a></strong>
 </p>
 <p align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤ 这里不知道要写什么了</font></font></p>
