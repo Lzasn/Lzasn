@@ -1,7 +1,7 @@
   <p align="center">
   <a href="#"><img src="https://api.imlazy.ink/img" alt="."></a>
 </p>
-<h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好，我是</font></font><a href="https://www.edisonlee55.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lzasn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></h1>
+<h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好，我是</font></font><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lzasn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></h1>
 <h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这只是一个普通的页面捏〜OwO</font></font></h1>
 <p align="center">
   <a href="https://steamcommunity.com/id/Lzasn/"><img src="https://card.yuy1n.io/card/76561199112429853/dark,badge,group,bg-game-1567800" alt="Lzasn 的 Steam 名片"></a>
