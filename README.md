@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="#"><img src="https://api.imlazy.ink/img" alt="edisonlee55 横幅"></a>
+  <a href="#"><img src="https://api.imlazy.ink/img" alt="."></a>
 </p>
 <h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好，我是</font></font><a href="https://www.edisonlee55.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lzasn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></h1>
 <h1 align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这只是一个普通的页面捏〜OwO</font></font></h1>
