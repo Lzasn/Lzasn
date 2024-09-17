@@ -1,8 +1,5 @@
 ## Hello, I'm Lzasn⭐
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Meow+meow+meow%3F)](https://git.io/typing-svg)<br>
-
-![](https://lzasn.xyz/awa.png)
-
 一只正在学习Java的准初二鸽子~，目前居住在**广东省茂名市**<br>
 兴趣爱好是玩游戏（CS2和MC）,研究Koishi的插件开发<br>
 Java应该不难学的吧（？）
