@@ -3,6 +3,9 @@
 一只正在学习Java的准初二鸽子~，目前居住在**广东省茂名市**<br>
 兴趣爱好是玩游戏（CS2和MC）,研究Koishi的插件开发<br>
 Java应该不难学的吧（？）
+## OS
+![Static Badge](https://img.shields.io/badge/ArchLinux-block?style=for-the-badge&logo=archlinux)  ![Static Badge](https://img.shields.io/badge/macOS-Sonoma%2014.6.1-98FB98?style=for-the-badge&logo=apple)
+
 
 ## Languages
 ![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue)  ![Static Badge](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-grass)  ![Static Badge](https://img.shields.io/badge/English-yellow)
