@@ -13,7 +13,7 @@ Java应该不难学的吧（？）
 ## Programming Languages
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
 
-![](https://wakatime.com/share/@00471b07-e400-4e9f-8c87-6f077d54e4fb/576d8915-f60f-4784-a5b1-f9a0f766f431.svg)
+<figure><embed src="https://wakatime.com/share/@00471b07-e400-4e9f-8c87-6f077d54e4fb/fecd5146-8982-44a5-a1b9-de588a43ebaa.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
