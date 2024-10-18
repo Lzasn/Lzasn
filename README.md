@@ -19,7 +19,7 @@ Java应该不难学的吧（？）
 <!--END_SECTION:waka-->
 
 ## Links
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lzasn)  [![Static Badge](https://img.shields.io/badge/Steam-%40Lzasn?style=for-the-badge&logo=steam&logoColor=000000)](https://steamcommunity.com/id/Lzasn/)  ![Static Badge](https://img.shields.io/badge/QQ-753119471-33FFFF?style=for-the-badge&logo=tencentqq&logoColor=0000000)  [![Static Badge](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=0000000)](https://x.com/w1024jk)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lzasn)  [![Static Badge](https://img.shields.io/badge/Steam-%40Lzasn?style=for-the-badge&logo=steam&logoColor=000000)](https://steamcommunity.com/id/Muska_Ami)  ![Static Badge](https://img.shields.io/badge/QQ-753119471-33FFFF?style=for-the-badge&logo=tencentqq&logoColor=0000000)  [![Static Badge](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=0000000)](https://x.com/w1024jk)
 
 ## Dedicate
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lzasn)](https://github.com/anuraghazra/github-readme-stats)
